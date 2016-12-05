@@ -19,12 +19,7 @@ This is already installed in your VM, but you can also install it locally if you
 `pip install mrjob`.
 
 ## Exercise
-
 This lab will teach you to use [MRJob](https://github.com/Yelp/mrjob), a very powerful python library for map reduce.
-
-> **Instructor note**: this lab needs to be run on the VM they have installed in the previous hour. The VM is packaged with all the necessary data and libraries, so they should just connect to it using ssh and then run everything from inside the machine. If they are not familiar with VIM they can configure Sublime Text to access the VM via SFTP and modify the scripts there.
-
-> Except for Exercise 1, all the other exercises can also be run on the laptop in local mode, if some of them have trouble connecting or using the VM. All they need is `pip install mrjob`.
 
 #### Requirements
 - Exercise 1: running map reduce locally and on hadoop cluster
@@ -36,10 +31,7 @@ This lab will teach you to use [MRJob](https://github.com/Yelp/mrjob), a very po
 - Exercise 7: Use machine learning to recognize a book from the most frequent words
 
 #### Starter code
-
 [Starter Code](./assets/code/starter-code/starter-code.ipynb)
-
-
 
 Additional Resources
 
