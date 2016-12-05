@@ -9,12 +9,6 @@ creator:
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) MRJob Lab
 
-### Virtual Machine Required
-Note: This lab requiress additional prep in order to run successfully:
-
-1. [Download and install Virtual Machine](../VM-installation.md).
-    - Note: This is a big file. Please reserve time to download and troubleshoot installation.
-
 ## Introduction
 In the past lab we've used a Virtual Machine to run Map Reduce jobs on native hadoop. As you may have understood, it's quite cumbersome and complicated.
 
@@ -38,12 +32,8 @@ This lab will teach you to use [MRJob](https://github.com/Yelp/mrjob), a very po
 - Exercise 3: multi step jobs
 - Exercise 4: Setup and teardown of tasks
 - Exercise 5: Counters
-
-**Bonus:**
-
-- Putting it all together: find top 15 most frequent words for all books
-- Use NLTK to recognize a book from the most frequent words
-
+- Exercise 6: Find top 15 most frequent words for all books
+- Exercise 7: Use NLTK to recognize a book from the most frequent words
 
 #### Starter code
 
@@ -56,4 +46,3 @@ Additional Resources
 
 - [MRJob Documentation](https://pythonhosted.org/mrjob/)
 - [MRJob Examples](https://github.com/Yelp/mrjob/tree/master/mrjob/examples)
-
