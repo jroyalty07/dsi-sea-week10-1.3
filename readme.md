@@ -33,7 +33,7 @@ This lab will teach you to use [MRJob](https://github.com/Yelp/mrjob), a very po
 - Exercise 4: Setup and teardown of tasks
 - Exercise 5: Counters
 - Exercise 6: Find top 15 most frequent words for all books
-- Exercise 7: Use NLTK to recognize a book from the most frequent words
+- Exercise 7: Use machine learning to recognize a book from the most frequent words
 
 #### Starter code
 
